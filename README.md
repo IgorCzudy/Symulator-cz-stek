@@ -1,0 +1,1 @@
+# Symulator-cz-stek
