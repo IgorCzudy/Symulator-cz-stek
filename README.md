@@ -1,1 +1,2 @@
-# Symulator-cz-stek
+# Symulator-czastek
+Symulator czastek to projekt, który wykonywałem z 3 kolegów w 2 semestrze na fizyke. Program napisaliśmy w pythonie wykorzystując bibliotekę pygame i numpy do mnożenia macierzy. Patrząc po czasię na ten projekt trudno mi nie oprzeć się wrażeniu, że semulator ten mógłby być równie dobrze symulatorem pandemii. Całość była fajnym wstępem do grafiki komputerowej, algebra liniowa z pierwszego semestru odgrywała tu dużą role.
